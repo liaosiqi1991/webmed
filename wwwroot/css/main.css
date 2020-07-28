@@ -1,0 +1,12 @@
+﻿@charset "UTF-8";
+#mainbox {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translate(-50%,-50%);
+}
+    
+
+/*div {
+    background-color:red;
+}*/

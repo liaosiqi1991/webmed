@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta http-equiv="Content-Type"  content="text/html;charset=UTF-8">
+    <link href="~/css/main.css" rel="stylesheet">
+    <title>
+        测试入口
+    </title>
+</head>
+<body>
+    <div id="mainbox">
+        <h2>病案系统测试入口</h2>
+        <form>
+            <button type="button" onclick="location='/Home/receive'">进入病案接收界面</button>
+            <button type="button" onclick="location='/Home/InPatient'">进入住院日报界面</button>
+            <button type="button" onclick="location='/Home/OutPatient'">进入门诊日报界面</button>
+            <textarea id="txt" rows="10" cols="30">
+            我是一个文本框。 
+            </textarea>
+        </form>
+    </div>
+
+    <script src="~/js/jquery.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <script src="~/js/main.js"></script>
+        
+</body>
+</html>
+
