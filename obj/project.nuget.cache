@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K3vBqK5eyd1Y1TGTczcolHzT6vWPXtpKDCA2tbWdhRnFhIG2HcIDpDNDm4Xzq+bNkMw5b8zQsSy0QuBu/eMQJw==",
+  "dgSpecHash": "Kksgn8uU27CvlvVoho26prxBSKEK4Efo6296gvKBY+gRCDhwZbUfWR8eSDZWHoE6D6b/0KaGBTnEYtUEhGRqIA==",
   "success": true,
-  "projectFilePath": "E:\\Webmedrec\\Webmedrec\\Webmedrec.csproj",
+  "projectFilePath": "C:\\Users\\lsq\\Desktop\\workspace\\webmed\\Webmedrec.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lsq\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\lsq\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.70\\oracle.manageddataaccess.core.2.19.70.nupkg.sha512",

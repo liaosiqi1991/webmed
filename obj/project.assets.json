@@ -84,11 +84,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Webmedrec\\Webmedrec\\Webmedrec.csproj",
+      "projectUniqueName": "C:\\Users\\lsq\\Desktop\\workspace\\webmed\\Webmedrec.csproj",
       "projectName": "Webmedrec",
-      "projectPath": "E:\\Webmedrec\\Webmedrec\\Webmedrec.csproj",
+      "projectPath": "C:\\Users\\lsq\\Desktop\\workspace\\webmed\\Webmedrec.csproj",
       "packagesPath": "C:\\Users\\lsq\\.nuget\\packages\\",
-      "outputPath": "E:\\Webmedrec\\Webmedrec\\obj\\",
+      "outputPath": "C:\\Users\\lsq\\Desktop\\workspace\\webmed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
